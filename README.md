@@ -32,6 +32,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Persian](fa)    | fa   |
 | [Polish](pl)     | pl   |
 | [Portuguese](pt) | pt   |
+| [Romanian](ro)   | ro   |
 | [Russian](ru)    | ru   |
 | [Spanish](es)    | es   |
 | [Swedish](sv)    | sv   |
